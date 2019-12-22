@@ -36,11 +36,6 @@ At the end of 2018, Webank own a Rmb154.5 billion ($21.5 billion) deposit base, 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
+* From my perspective, Webank, as a digital bank, can help chinese centarl bank to provide and distribute official chinese crytocurrency to its users.
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize? 
-
-* Why are these technologies appropriate for your solution?
-
+* By using blockchain and cloud computing, people outside china also can use it as an exchange media, which should have the following advantages: trustable and transferable. 
