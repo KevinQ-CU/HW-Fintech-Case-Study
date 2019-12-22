@@ -39,3 +39,10 @@ At the end of 2018, Webank own a Rmb154.5 billion ($21.5 billion) deposit base, 
 * From my perspective, Webank, as a digital bank, can help chinese centarl bank to provide and distribute official chinese crytocurrency to its users.
 
 * By using blockchain and cloud computing, people outside china also can use it as an exchange media, which should have the following advantages: trustable and transferable. 
+
+## References
+
+https://www.euromoney.com/article/b1h9dbtpshwh66/webank-chinas-financial-unicorn
+https://www.crunchbase.com/organization/webank/funding_rounds/funding_rounds_list
+https://www.mx.com/moneysummit/the-state-of-digital-banking-a-look-at-4-surveys
+https://www.webank.com/#/home
